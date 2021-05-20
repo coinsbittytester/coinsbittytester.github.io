@@ -711,7 +711,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "\u5f85\u6536\u96c6\u7684 EGG"
+        "text": "\u5f85\u6536\u96c6\u7684 TINVS"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "\u5c06\u711a\u6bc1\u7684 EGG (USD)"
+        "text": "\u5c06\u711a\u6bc1\u7684 TINVS (USD)"
       }
     },
     {
@@ -807,7 +807,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f \u6bcf\u6b21\u60a8\u8d28\u62bc\u548c\u53d6\u6d88\u8d28\u62bc LP \u4ee3\u5e01\u65f6\uff0c\u5408\u7ea6\u90fd\u4f1a\u81ea\u52a8\u4e3a\u60a8\u6536\u5272 EGG \u5956\u52b1\uff01"
+        "text": "\u2b50\ufe0f \u6bcf\u6b21\u60a8\u8d28\u62bc\u548c\u53d6\u6d88\u8d28\u62bc LP \u4ee3\u5e01\u65f6\uff0c\u5408\u7ea6\u90fd\u4f1a\u81ea\u52a8\u4e3a\u60a8\u6536\u5272 TINVS \u5956\u52b1\uff01"
       }
     },
     {
@@ -825,13 +825,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "\u8d2d\u4e70 EGG \u548c BNB \u4ee3\u5e01"
+        "text": "\u8d2d\u4e70 TINVS \u548c BNB \u4ee3\u5e01"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "\u901a\u8fc7\u6dfb\u52a0 EGG \u548c BNB \u6d41\u52a8\u6027\u83b7\u53d6 EGG-BNB LP \u4ee3\u5e01"
+        "text": "\u901a\u8fc7\u6dfb\u52a0 TINVS \u548c BNB \u6d41\u52a8\u6027\u83b7\u53d6 TINVS-BNB LP \u4ee3\u5e01"
       }
     },
     {
@@ -843,7 +843,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "\u5728\u9500\u552e\u8fc7\u7a0b\u4e2d\uff0c\u63d0\u4ea4\u60a8\u7684 EGG-LP \u4ee3\u5e01\u6765\u8d2d\u4e70 IFO \u4ee3\u5e01"
+        "text": "\u5728\u9500\u552e\u8fc7\u7a0b\u4e2d\uff0c\u63d0\u4ea4\u60a8\u7684 TINVS-LP \u4ee3\u5e01\u6765\u8d2d\u4e70 IFO \u4ee3\u5e01"
       }
     },
     {
@@ -879,7 +879,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "\u5151\u6362\u6210 EGG\uff0c\u6216\u8005\u4fdd\u7559\u4f5c\u4e3a\u60a8\u7684\u6536\u85cf\u54c1\uff01"
+        "text": "\u5151\u6362\u6210 TINVS\uff0c\u6216\u8005\u4fdd\u7559\u4f5c\u4e3a\u60a8\u7684\u6536\u85cf\u54c1\uff01"
       }
     },
     {
@@ -921,7 +921,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "\u5f53\u60a8\u5c06 NFT \u5151\u6362\u6210 EGG \u540e\uff0c\u60a8\u5c06\u6c38\u8fdc\u65e0\u6cd5\u8bbf\u95ee\u5b83\uff01"
+        "text": "\u5f53\u60a8\u5c06 NFT \u5151\u6362\u6210 TINVS \u540e\uff0c\u60a8\u5c06\u6c38\u8fdc\u65e0\u6cd5\u8bbf\u95ee\u5b83\uff01"
       }
     },
     {
@@ -951,7 +951,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "\u5728\u4e0b\u9762\u5217\u51fa\u7684\u5230\u671f\u65e5\u4e4b\u524d\uff0c\u83b7\u80dc\u8005\u53ef\u4ee5\u5c06\u5176 NFT \u5151\u6362\u6210 EGG \u4ef7\u503c\u3002\u5982\u679c\u60a8\u5c4a\u65f6\u672a\u5151\u6362\u60a8\u7684 NFT\uff0c\u8bf7\u4e0d\u8981\u62c5\u5fc3\uff1a\u60a8\u4ecd\u53ef\u4ee5\u5c06\u5176\u4fdd\u5b58\u5728\u94b1\u5305\u4e2d\uff01"
+        "text": "\u5728\u4e0b\u9762\u5217\u51fa\u7684\u5230\u671f\u65e5\u4e4b\u524d\uff0c\u83b7\u80dc\u8005\u53ef\u4ee5\u5c06\u5176 NFT \u5151\u6362\u6210 TINVS \u4ef7\u503c\u3002\u5982\u679c\u60a8\u5c4a\u65f6\u672a\u5151\u6362\u60a8\u7684 NFT\uff0c\u8bf7\u4e0d\u8981\u62c5\u5fc3\uff1a\u60a8\u4ecd\u53ef\u4ee5\u5c06\u5176\u4fdd\u5b58\u5728\u94b1\u5305\u4e2d\uff01"
       }
     },
     {
@@ -993,7 +993,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "\u5151\u6362\u6210 EGG"
+        "text": "\u5151\u6362\u6210 TINVS"
       }
     },
     {
@@ -1119,7 +1119,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "\u8d28\u62bc LP \u4ee3\u5e01\u4ee5\u8d5a\u53d6 EGG"
+        "text": "\u8d28\u62bc LP \u4ee3\u5e01\u4ee5\u8d5a\u53d6 TINVS"
       }
     },
     {
@@ -1161,7 +1161,7 @@
     {
       "data": {
         "stringId": 708,
-        "text": "EGG \u5f69\u7968"
+        "text": "TINVS \u5f69\u7968"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "质押费用将用于回购 EGG"
+        "text": "质押费用将用于回购 TINVS"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "质押代币以堆叠 EGG"
+        "text": "质押代币以堆叠 TINVS"
       }
     },
     {
