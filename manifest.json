@@ -1,15 +1,15 @@
 {
-  "short_name": "TINvS Finance",
-  "name": "TINvS Finance",
-  "description": "Farm TINvS with LP Tokens",
+  "short_name": "The Hive",
+  "name": "The HIve",
   "icons": [
     {
-      "src": "favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "256x256"
+      "src": "./logo.png",
+      "sizes": "160x160",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "orientation": "portrait",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
