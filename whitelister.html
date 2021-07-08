@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Tinville.Finance Presale">
+    <meta name="author" content="Bitty">
+    <title>Tinville.Finance Presale</title>
+<!-- BEGIN: CSS Assets-->
+	<link rel="icon" href="img/tinv.png">
+    <link rel="stylesheet" href="css/index.css" />
+<!-- END: CSS Assets-->
+	
+</head>
+
+<body>
+<!----------------HEADER----------------->
+	<div class="head"></div>
+<!----------------HEADER----------------->
+<!----------------CONTENT---------------->
+	<div class="content">
+
+		<div class="center">
+			<h4 class="center">Your Information</h4>
+		</div>
+		<table class="center user-info">
+			<tr>
+				<td style="padding-right: 25px;">Your Address</td>
+				<td class="user-address"></td>
+			</tr>
+			<tr>
+				<td>Your BNB</td>
+				<td class="user-bnbBalance"></td>
+			</tr>
+		</table>
+
+		<button class="center mgt15 whitelist-button" style="width:25%;" onclick="whitelistSetup()"> Whitelist Them </button>
+
+		<div class="center mgt15">
+			<h4 class="center">Input Whitelist Data</h4>
+		</div>
+		<input class="center input mgt15 whitelist-data" 
+			style="height: auto; width: auto; background: white;"
+			placeholder="Put whitelist data here!">
+
+		<div class="center mgt15">
+			<h4 class="tx-hash"></h4>
+		</div>
+	</div>
+<!----------------CONTENT---------------->
+</body>
+
+<!-- BEGIN: JS Assets-->
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/if-header.js"></script>
+    <script src="./js/web3.min.js"></script>
+	<script src="./js/whitelister.js"></script>
+<!-- END: JS Assets-->

@@ -1,0 +1,153 @@
+html{scroll-behavior: smooth;} 
+
+
+body {
+	background: radial-gradient(at top left, #ffa600 5%, #d68b13 30%, #4f3307 100%);
+	background: radial-gradient(at top right, #ffa600 5%, #d68b13 30%, #4f3307 100%);
+}
+
+.header{
+	display: flex;
+	text-align: center;
+	margin: 0px auto;
+	height: 100px;
+	padding-bottom: 10px;
+}
+
+.bottom-blue{
+	border-bottom: 1px solid #0000AA;
+	padding-bottom: 10px;
+}
+
+.bottom-grey{
+	border-bottom: 1px solid #333333;
+	padding-bottom: 1px;
+}
+.header-links{
+	justify-content: center;
+}
+
+@media only screen and (max-width: 600px){
+	.header-links{
+		justify-content: center;
+		font-size: 16px;
+		margin: 0px;
+		padding: 0px;
+	}
+}
+
+.text-center{
+	text-align: center;
+}
+
+.content{
+	padding-top: 25px;
+}
+
+.input{
+	width: 100%;
+	max-width: 400px;
+}
+
+.header-logo{
+	height:auto;
+	width:auto;
+	max-width: 100px;
+	position: absolute left;
+	display: flex;
+}
+
+.header-logo-right{
+	height:auto;
+	width:auto;
+	max-width: 100px;
+	position: absolute right;
+	display: flex;
+}
+
+.header-text{
+	padding-top: 5px;
+	font-size: 60px;
+	margin: auto;
+	position: absolute center;
+	left: 0;
+	right: 0;
+	width: 60vw;
+}
+
+@media only screen and (max-width: 900px){
+	.header-text{
+		font-size: 30px;
+	}
+}
+
+.center{
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	width: 75%;
+}
+
+@media only screen and (max-width: 900px){
+	.center{
+		display: flex;
+		justify-content: center;
+		margin: auto;
+		width: 95%;
+	}
+}
+
+.flex{
+	display: flex;
+}
+
+.inline{
+	display: inline;
+}
+
+.mgb15{
+	margin-bottom: 15px;
+}
+.mgt15{
+	margin-top: 15px;
+}
+
+.border-green{
+	border: 3px solid #00FF00;
+	border-radius: 15px;
+	padding: 5px 15px;
+	width: fit;
+}
+
+@media only screen and (max-width: 700px){
+	.center{
+		font-size: 14px;
+		width: 100% !important;
+		margin: 0 auto;
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	.inner{
+		font-size: 12px;
+		width: 100%;
+		padding: 3px 5px 3px 5px;
+	}
+	.arrows{
+		font-size: 16px !important;
+		padding: 3px 0 3px 0;
+	}
+	.panel, .bankroll-panel, .eclip-panel{
+		font-size: 12px !important;
+		padding: 3px 0 3px 0;
+	}
+	.eclip-tut{
+		height: "300";
+	}
+}
+
+
+.inner{
+	font-size: 24px;
+	width: 100%;
+	padding: 5px 0 5px 0;
+}
