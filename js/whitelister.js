@@ -18,7 +18,7 @@ $(document).ready(function() {
 		await ethereum.request( {method: 'eth_requestAccounts'} )
 		ethereum.request({ method: 'eth_accounts' }).then(function (result) {
 			user.address = result[0]
-			$('.user-address')[0].innerHTML = '0x' + result[0].slice(2, 5) + '...' + result[0].slice(42 - 5)
+			$('.user-address')[0].innerHTML = result[0].toLowerCase()
 
 			web3 = new Web3(window.web3.currentProvider)
 		})
@@ -46,7 +46,7 @@ async function userLoginAttempt(){
 	await ethereum.request({method: 'eth_requestAccounts'})
 	ethereum.request({ method: 'eth_accounts' }).then(function (result) {
 		user.address = result[0]
-		$('.user-address')[0].innerHTML = '0x' + result[0].slice(2, 5) + '...' + result[0].slice(42 - 5)
+		$('.user-address')[0].innerHTML = result[0].toLowerCase()
 		web3 = new Web3(window.web3.currentProvider)
 		initContracts()
 	})
@@ -74,6 +74,9 @@ async function getBalances() {
 	if(user.address != undefined){
 		user.bnbBalance = await web3.eth.getBalance(user.address) / bnbPrecision
 		$('.user-bnbBalance')[0].innerHTML = user.bnbBalance.toLocaleString()
+
+		let owner = await presaleContract.methods.owner().call()
+		$('.owner-address')[0].innerHTML = owner.toLowerCase()
 	}
 	setTimeout(() => {
 		getBalances()
